@@ -1,8 +1,8 @@
-# Gideon Kemboi – Digital Media Portfolio
+Beckham Cheruiyot Rono – Digital Media Portfolio
 
 ## About Me
 
-Hello, my name is Gideon Kemboi. I have a strong interest in digital media and creative technology. I enjoy exploring different tools used for audio editing, video production, and screen recording.
+Hello, my name is Beckham Cheruiyot Rono . I have a strong interest in digital media and creative technology. I enjoy exploring different tools used for audio editing, video production, and screen recording.
 
 I like experimenting with multimedia tools and workflows to understand how audio and video content can be edited, improved, and shared online.
 
